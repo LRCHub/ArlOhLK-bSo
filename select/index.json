@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "幻日ミステリウム",
+  "base_artist": "Aqours",
+  "createdAt": "2025-12-14T06:07:00.062064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幻日ミステリウム",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_幻日ミステリウム_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幻日ミステリウム (黒澤ルビィ Solo Ver.)",
+      "artist": "黒澤ルビィ(CV.降幡愛)",
+      "has_synced": true,
+      "path": "select/02_幻日ミステリウム_(黒澤ルビィ_Solo_Ver.)_黒澤ルビィ(CV.降幡愛).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幻日ミステリウム - Genjitsu Mysterium",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/03_幻日ミステリウム_-_Genjitsu_Mysterium_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幻日ミステリウム (Off Vocal)",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/04_幻日ミステリウム_(Off_Vocal)_Aqours.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幻日ミステリウム",
+      "artist": "Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_幻日ミステリウム_Aqours.txt"
+    }
+  ]
+}
